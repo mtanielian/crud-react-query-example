@@ -6,6 +6,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `npm install`
+
+### `npm db`
+This project use json-server first you need start the "fake" db (port to db 3001, set in package.json)
+
 ### `npm start`
 
 Runs the app in the development mode.\
