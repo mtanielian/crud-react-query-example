@@ -32,3 +32,8 @@ nav ul li a {
 nav ul li :hover {
   font-weight: bold;
 }
+
+.active {
+  font-weight: bold;
+  text-decoration: underline;
+}
